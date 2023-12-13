@@ -59,7 +59,7 @@ def extract_and_save_data(url, output_file,class_name1,class_name):
 
 
 # Read URLs from Excel file using pandas
-excel_file = "/content/details/Input.xlsx"
+excel_file = "20211030 Test Assignment/Input.xlsx"
   # Replace with the path to your Excel file
 df = pd.read_excel(excel_file)
 
